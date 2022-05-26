@@ -3,6 +3,14 @@ body {
     font-family:'Courier New', Courier, monospace;
 }
 
+#subhead {
+    padding-left: 150px;
+    padding-right: 150px;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+}
+
 a:link {
     color: black;
     text-decoration: none;
@@ -19,6 +27,8 @@ a:hover {
 
 h1 {
     font-family: 'Permanent Marker', cursive;
+    line-height: 34px;
+    height: 35px;
     font-size: 80px;
     color: black;
     text-align: center;
