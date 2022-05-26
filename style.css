@@ -1,11 +1,39 @@
 body {
     background: #ff71ce;
+    font-family:'Courier New', Courier, monospace;
+}
+
+a:link {
+    color: black;
+    text-decoration: none;
+}
+
+a:visited {
+    color: black;
+    text-decoration: none;
+}
+
+a:hover {
+    color: white;
 }
 
 h1 {
-    font-family: sans-serif;
+    font-family: 'Permanent Marker', cursive;
+    font-size: 80px;
+    color: black;
+    text-align: center;
 }
 
 h2 {
     text-align: center;
 }
+
+#outerRect {
+    border: 3px solid;
+    border-color: white;
+    position: static;
+    width: 1000px;
+    max-width: 80%;
+    height: 600px;
+    max-height: 100%;
+  }
