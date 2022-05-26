@@ -47,3 +47,14 @@ h2 {
     height: 600px;
     max-height: 100%;
   }
+
+#skates {
+    width: 40%;
+    height: auto;
+}
+
+#cannoli {
+    width: 30%;
+    height: auto;
+}
+
