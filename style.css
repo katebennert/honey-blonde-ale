@@ -1,5 +1,5 @@
 body {
-    background: #ff71ce;
+    background-image: linear-gradient(to bottom right, #ff71ce, yellow);
     font-family:'Courier New', Courier, monospace;
 }
 
@@ -26,12 +26,12 @@ a:hover {
 }
 
 h1 {
-    font-family: 'Permanent Marker', cursive;
+    font-family: 'Dancing Script', cursive;
     line-height: 34px;
     height: 35px;
     font-size: 80px;
     color: black;
-    text-align: center;
+    text-align: left;
 }
 
 h2 {
@@ -46,10 +46,10 @@ h2 {
     max-width: 80%;
     height: 600px;
     max-height: 100%;
-  }
+}
 
-#skates {
-    width: 40%;
+#kate {
+    width: 20%;
     height: auto;
 }
 
