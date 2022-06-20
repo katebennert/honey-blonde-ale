@@ -39,6 +39,7 @@ h1 {
     font-size: 80px;
     color: black;
     text-align: left;
+    padding-left: 30px;
 }
 
 h2 {
@@ -57,27 +58,8 @@ h2 {
 
 .flex-container {
     display: flex;
-    height: 400px;
-    align-content: left;
-  }
-
-#kate {
-    height: 300px;
-    width: auto;
-}
-
-#cannoli {
-    height: 300px;
-    width: auto;
-}
-
-#hops {
-    height: 300px;
-    width: auto;
-}
-
-#magnolia {
-    height: 300px;
-    width: auto;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: flex-start;
 }
 
